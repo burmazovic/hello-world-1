@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Unesi ime</b></label>
+    <label for="Name"><b>Unesi prezime</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobilni mobbbilni</b></label>
+    <label for="mobile"><b>Enter mobilni mobbbilniprezime</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
